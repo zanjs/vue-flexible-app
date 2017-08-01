@@ -4,6 +4,7 @@
       <div class="key" v-html="item.cn"></div>
       <div class="value" v-html="(Array.isArray(detailObj[item.en])?detailObj[item.en].join(','):detailObj[item.en]) || '--'"></div>
     </div>
+    
   </div>
 </template>
 
