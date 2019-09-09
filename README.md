@@ -1,5 +1,8 @@
 
 # Description(基础架构简介)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/vue-flexible-app.svg)](https://greenkeeper.io/)
+
 本项目是基于vue开发的一个简易app，基础框架采用vue-cli 2.x版本，css预处理器使用的sass(scss)。与此同时，本项目还集成了如下前端类库和框架:
 
 ## lib-flexible
